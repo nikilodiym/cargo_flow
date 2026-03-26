@@ -5,6 +5,7 @@ import wood from "../../../assets/img/all/wood.png";
 import sand from "../../../assets/img/all/sand.png";
 import gravel from "../../../assets/img/all/gravel.png";
 import stone from "../../../assets/img/all/stone.png";
+import dustbin from "../../../assets/img/all/dustbin.png";
 
 export default function Types() {
     return (
@@ -13,13 +14,13 @@ export default function Types() {
 
             <div className="types__grid">
                 <div className="type-card">
-                    <img src={wood} alt="Wood" />
-                    <h3>Дрова &  деревина</h3>
+                    <img src={dustbin} alt="Dustbin" />
+                    <h3>Будівельне сміття</h3>
                 </div>
 
                 <div className="type-card">
                     <img src={sand} alt="Sand" />
-                    <h3>Пісок</h3>
+                    <h3>Пісок (митий)</h3>
                 </div>
 
                 <div className="type-card">

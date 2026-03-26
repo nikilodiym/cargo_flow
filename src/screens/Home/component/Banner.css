@@ -98,18 +98,18 @@
     justify-content: center;
 }
 
-/* IMAGE */
 .banner__image {
     position: absolute;
     right: 80px;
-    top: 100px;
-    bottom: 0;
+    top: 50%;
+    transform: translateY(-50%);
     z-index: 2;
 }
 
 .banner__image img {
-    width: 500px;
+    width: 600px; /* було 500 → стало більше */
     height: auto;
+    object-fit: contain;
 }
 
 /* BLUE LINE */

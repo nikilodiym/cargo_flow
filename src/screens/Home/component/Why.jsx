@@ -12,7 +12,7 @@ export default function Why() {
                     <div className="why-card">🚚 Одна універсальна вантажівка</div>
                     <div className="why-card">⚡ Швидка доставка</div>
                     <div className="why-card">🧱 Будь-який тип вантажу</div>
-                    <div className="why-card">💰 Справедлива ціна</div>
+                    <div className="why-card">💰 Доступна ціна</div>
                 </div>
 
                 {/* <div className="caska-background">
