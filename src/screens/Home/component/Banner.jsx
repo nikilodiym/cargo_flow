@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./Banner.css";
-import truck from "../../../assets/img/home/Truck.png";
 import truckMain from "../../../assets/img/home/main_transport.png";
 
 export default function Banner() {
@@ -45,7 +44,7 @@ export default function Banner() {
 
                         <div className="modal-contacts">
                             <a href="tel:+380672267917" className="modal-link">📞 +380 67 226 79 17</a>
-                            <a href="https://t.me/OleXSANDR16" target="_blank" className="modal-link telegram">✈️ Telegram</a>
+                            <a href="https://t.me/OleXSANDR16" target="_blank" rel="noreferrer" className="modal-link telegram">✈️ Telegram</a>
                             <a href="viber://chat?number=%0672267917" className="modal-link viber">💜 Viber</a>
                         </div>
 

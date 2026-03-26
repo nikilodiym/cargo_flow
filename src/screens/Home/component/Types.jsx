@@ -1,7 +1,6 @@
 import React from "react";
 import "./Types.css";
 
-import wood from "../../../assets/img/all/wood.png";
 import sand from "../../../assets/img/all/sand.png";
 import gravel from "../../../assets/img/all/gravel.png";
 import stone from "../../../assets/img/all/stone.png";

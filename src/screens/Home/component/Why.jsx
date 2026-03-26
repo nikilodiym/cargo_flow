@@ -1,8 +1,6 @@
 import React from "react";
 import "./Why.css";
 
-import backgroundSave from "../../../assets/img/all/caskaOnBackground.jpeg"
-
 export default function Why() {
     return (
         <section className="why">
