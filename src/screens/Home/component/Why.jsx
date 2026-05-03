@@ -25,7 +25,7 @@ export default function Why() {
                 </div>
 
                 <div className="why__item">
-                    ✉️ <span>something@gmail.com</span>
+                    ✈ <span>@OleXSANDR16</span>
                 </div>
 
                 <div className="why__item">
