@@ -9,7 +9,7 @@
     },
     {
       "src": "truck-logo.png",
-      "type": "image/png",
+      "type": "image/png 16x16",
       "sizes": "512x512"
     },
     {
